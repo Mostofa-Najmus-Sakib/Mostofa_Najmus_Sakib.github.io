@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Wenkai Jiang
+title: Mostofa Najmus Sakib
 
 # Short description of your site
 description: Personal Homepage
@@ -25,6 +25,7 @@ description: Personal Homepage
 navbar-links:
   Home: "index"
   Publications: "publications"
+  Projects: "Projects"
   Resume: "CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -40,10 +41,10 @@ avatar: "/img/kyejiang.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Wenkai Jiang
-  email: "wendelljiang.au@gmail.com"
-  github: Jedshady    # eg. daattali
-  linkedin: wendelljiang
+  name: Mostofa Najmus Sakib
+  email: "mostofanajmussak@u.boisestate.edu"
+  github: Mostofa-Najmus-Sakib    # eg. daattali
+  linkedin: mostofa-sakib
 
 # Select which links to show in the footer
 footer-links-active:
